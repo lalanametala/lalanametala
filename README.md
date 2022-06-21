@@ -1,4 +1,4 @@
-<img align="right" width="450px" style="margin-top:-10px" src="./my_octocat2.png">
+<img align="right" width="400px" style="margin-top:-10px" src="./my_octocat2.png">
 
 
 <div dsplay="inline-block" style="margin-top:-100px">
