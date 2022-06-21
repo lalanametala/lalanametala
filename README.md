@@ -16,7 +16,7 @@
 
 ### :woman_technologist: About Me :
 
-- :raising_hand: My name is Laís and my nickname is "Lalá"!
+- :raising_hand: My name is Laís but you can call me "Lalá"!
 - 🔭 I’m currently transitioning from Mining Engineering into Web Development
 - 🌱 I’m currently learning Node.js, Express.js, Typescript and MySQL
 - 👯 I’m looking to collaborate/help on JavaScript, React and React
