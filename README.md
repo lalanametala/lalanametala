@@ -1,9 +1,7 @@
-<img align="right" width="250px" style="margin-top:-20px" src="./Screenshot from 2022-06-21 14-24-25.png">
+<img align="right" width="450px" style="margin-top:-10px" src="./my_octocat2.png">
 
-</br>
-</br>
 
-<div dsplay="inline-block">
+<div dsplay="inline-block" style="margin-top:-100px">
  
  <h1 align="left">Lalá Nametala</h1>
  <a href="https://www.instagram.com/lalanametala/">
