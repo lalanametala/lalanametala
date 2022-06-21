@@ -19,7 +19,7 @@
 - :raising_hand: My name is Laís but you can call me "Lalá"!
 - 🔭 I’m currently transitioning from Mining Engineering into Web Development
 - 🌱 I’m currently learning Node.js, Express.js, Typescript and MySQL
-- 👯 I’m looking to collaborate/help on JavaScript, React and React
+- 👯 I’m looking to collaborate/help on JavaScript, React and Redux
 - 📫 How to reach me: <a href = "mailto:lalanametala@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ---
